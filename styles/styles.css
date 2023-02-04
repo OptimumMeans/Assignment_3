@@ -88,6 +88,14 @@ article{
     font-weight: 500;
 }
 
+.normal>blockquote{
+    line-height: 120%;
+    font-family: 'Lora', serif;
+    font-size: 1.25em;
+    font-weight: 800;
+    padding: 5% 4.5% 0 4.5%;
+}
+
 #gif{
     margin-top: 50%;
 }
